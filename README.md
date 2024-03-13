@@ -30,7 +30,7 @@ higher text quality (bigger DPI like 1200 DPI)
 Usage
 Download the app
 
-wget https://raw.githubusercontent.com/BeanGreen247/Image-to-text-converter/master/imagetotextconversion.py
+https://raw.githubusercontent.com/BeanGreen247/Image-to-text-converter/master/imagetotextconversion.py
 Launch the app
 
 python3.6 imagetotextconversion.py
@@ -44,5 +44,10 @@ And lastly it will ask for the output file name
 
 Type output file name:text1-output
 The files name will be, in my case, text1-output-eng.txt
+
+
+My collab link:
+
+https://colab.research.google.com/drive/1pI8S-lSM8sJBpMNS0nlnWDs929kM4AwP?usp=sharing
 
 Hope you like it.
